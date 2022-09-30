@@ -1,0 +1,11 @@
+.navbarConatiner {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100vw;
+    height: 10vh;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
